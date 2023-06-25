@@ -1,0 +1,20 @@
+# Environments
+.venv/
+venv/
+.env
+env.bak/
+venv.bak/
+.ipynb_checkpoints
+
+# Ignore content folders
+pdf/
+imports/
+embeddings/
+text/
+
+# Ignore all files
+
+
+# Except Jupyter Notebooks
+!*.ipynb
+
